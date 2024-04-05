@@ -64,9 +64,6 @@
 		    <a href="https://www.markdownguide.org" >
         <img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=MarkDown&logoColor=white&labelColor=000000&color=4E4E4E" alt="Github home page" />
     </a>
-    <a href="https://storybook.js.org" >
-        <img src="https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&labelColor=FF4785&color=4E4E4E" alt="Storybook is a frontend workshop for building UI components and pages in isolation." />
-    </a>
     <a href="https://www.figma.com" >
         <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma home page" />
     </a>
