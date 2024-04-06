@@ -77,3 +77,9 @@
         <img src="https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Adobe Photoshop home page" />
     </a>
 </p>
+
+### :fire: Моя статистика :
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Agolubtsova&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agolubtsova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
