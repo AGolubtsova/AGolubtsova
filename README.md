@@ -20,10 +20,6 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Agolubtsova&style=flat-square&color=blue" alt=""/>
-
----
-
 :computer: **Стек технологий**  
 
 <!-- источник лого: https://simpleicons.org -->
@@ -87,3 +83,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Agolubtsova&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agolubtsova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Agolubtsova&style=flat-square&color=blue" alt=""/>
